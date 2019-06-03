@@ -1,0 +1,17 @@
+html {
+  font-size: 62.5%;
+}
+
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+table-center {
+  text-align: center;
+}
+
+table {
+  width: 50%;
+  /* margin: 10px auto; */
+}
